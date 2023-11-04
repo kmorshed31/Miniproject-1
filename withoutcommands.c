@@ -1,3 +1,4 @@
+//4a616564656e206c6976657320696e204d696c746f6e2e0a
 #include <stdio.h>
 #include <string.h>
 
