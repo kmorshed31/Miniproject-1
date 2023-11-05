@@ -1,3 +1,5 @@
+//Hello There how are you?<CR>
+//My name is Sean Clarke.<tab>I like software!<CR>
 #include <stdio.h>
 #include <string.h>
 
